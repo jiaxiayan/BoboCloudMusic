@@ -10,7 +10,6 @@
   border-radius: 6rpx;
 }
 
-
 .playlist-playcount {
   font-size: 24rpx;
   color: #fff;
@@ -30,5 +29,5 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   overflow: hidden;
-    text-overflow: ellipsis;
+  text-overflow: ellipsis;
 }
